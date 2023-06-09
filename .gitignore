@@ -177,3 +177,6 @@ pyrightconfig.json
 data/*/*.csv
 data/*/*.pqt
 data/*/*.tsv
+
+# Office temporary files
+~$*
