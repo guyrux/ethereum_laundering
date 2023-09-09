@@ -180,3 +180,4 @@ data/*/*.tsv
 
 # Office temporary files
 ~$*
+*.xls*
