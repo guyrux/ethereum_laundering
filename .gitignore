@@ -174,9 +174,12 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# PERSONAL
 data/*/*.csv
 data/*/*.pqt
 data/*/*.tsv
+data/*/*.xls*
 
 # Office temporary files
 ~$*
