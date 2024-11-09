@@ -4,5 +4,5 @@ def calc(n):
     return n
   else:
     return calc(n-1) + calc(n-2)
-    
+
 print(calc(6))
